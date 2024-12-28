@@ -21,3 +21,11 @@ if __name__ == '__main__':
     print('Array after sort: ', sorted_list)
 
 
+# Time Complexity:
+
+# Best Case: O(n)
+# Best Case: O(n^2)
+# Worst Case: O(n^2)
+
+# Space Complexity:
+# O(1)

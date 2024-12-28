@@ -42,3 +42,12 @@ int main(){
     
     return 0;
 }
+
+// Time Complexity:
+
+// Best Case: O(n)
+// Best Case: O(n^2)
+// Worst Case: O(n^2)
+
+// Space Complexity:
+// O(1)
