@@ -1,5 +1,4 @@
 
-
 def selection_sort(arr):
     n = len(arr)
     for i in range(0, n-1):
