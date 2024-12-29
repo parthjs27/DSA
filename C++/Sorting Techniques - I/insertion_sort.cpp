@@ -39,7 +39,7 @@ int main(){
 // Time Complexity:
 
 // Best Case: O(n)
-// Best Case: O(n^2)
+// Average Case: O(n^2)
 // Worst Case: O(n^2)
 
 // Space Complexity:

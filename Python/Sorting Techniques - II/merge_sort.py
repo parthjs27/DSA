@@ -41,7 +41,7 @@ if __name__ == '__main__':
 # Time Complexity:
 
 # Best Case: O(nlogn)
-# Best Case: O(nlogn)
+# Average Case: O(nlogn)
 # Worst Case: O(nlogn)
 
 # Space Complexity:
